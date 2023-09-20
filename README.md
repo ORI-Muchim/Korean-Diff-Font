@@ -53,7 +53,7 @@ data_dir
 ### Prepare datasets
 
 ```python
-python font2img.py --ttf_path ttf_folder --chara total_chn.txt --save_path save_folder --img_size 128 --chara_size 100
+python font2img.py --ttf_path ./ttf_folder --chara total_kor.txt --save_path ./data_dir --img_size 128 --chara_size 100
 ```
 
 ### Conditional training
