@@ -32,7 +32,7 @@ yaml
 
 ## Datasets
 
-[안심글꼴](https://gongu.copyright.or.kr/gongu/bbs/B0000018/list.do?menuNo=200195) I trained using the safe-font provided by the Korean Copyright Commission.
+[안심글꼴](https://gongu.copyright.or.kr/gongu/bbs/B0000018/list.do?menuNo=200195) Trained using the safe-font provided by the Korean Copyright Commission.
 
 Example Directory:
 
