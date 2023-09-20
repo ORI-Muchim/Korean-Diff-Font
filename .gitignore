@@ -1,0 +1,10 @@
+*.DS_Store
+*.pyd
+*__pycache__*
+*.pyc
+__pycache__/
+data_dir/
+trained_models/
+trained_models.zip
+ttf_folder/
+ttf_folder.zip

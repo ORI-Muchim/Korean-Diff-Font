@@ -1,0 +1,19 @@
+data_dir: './data_dir/'
+chara_nums: 11172
+diffusion_steps: 1000
+noise_schedule: 'linear'
+image_size: 128
+num_channels: 128
+num_res_blocks: 3
+lr: 0.0001
+batch_size: 16
+log_interval: 250
+save_interval: 2000
+train_step: 420000
+attention_resolutions: '40, 20, 10'
+sty_encoder_path: './pretrained_models/korean_styenc.ckpt'
+model_save_dir: './trained_models'
+stroke_path: './korean_stroke.txt'
+classifier_free: True
+total_train_step: 800000
+resume_checkpoint: "./trained_models/model732000.pt"
