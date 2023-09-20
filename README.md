@@ -1,4 +1,4 @@
-# Korean-Diff-Font
+# Korean-Diff-Font(Work In Progress)
 
 Official code implementation based on pytorch for paper, Diff-Font: Diffusion Model for Robust One-Shot Font Generation.  [Arvix](https://arxiv.org/pdf/2212.05895.pdf)
 
