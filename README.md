@@ -94,7 +94,7 @@ After conditional training , we suggest an additional fine-tuning step.
   stroke_path: './korean_stroke.txt' # encoded strokes
   classifier_free: True  # True for fine-tuning
   total_train_steps: 800000 # total number of training steps for conditional training and fine-tuning
-  resume_checkpoint: "./trained_models/model700000.pt" # path to conditional trained model, required for fine-tuning
+  resume_checkpoint: "./trained_models/model800000.pt" # path to conditional trained model, required for fine-tuning
   ```
 
 - Then, Run:
@@ -113,7 +113,7 @@ Key setting for testing:
 chara_nums: 11172
 num_samples: 5 # Number of characters in ('./gen_char_kor.txt')
 stroke_path: './korean_stroke.txt'
-model_path: './trained_models/ema_0.9999_700000.pt'
+model_path: './trained_models/ema_0.9999_800000.pt'
 sty_img_path: './1.png'
 total_txt_file: './total_kor.txt'
 gen_txt_file: './gen_char_kor.txt' # txt file for generation
