@@ -147,6 +147,4 @@ This phenomenon indicates that the model training is not sufficient. Please cont
 
 # References
 
-------
-
 This project is based on [openai/guided-diffusion](https://github.com/openai/guided-diffusion) and [DG-Font](https://github.com/ecnuycxie/DG-Font).
