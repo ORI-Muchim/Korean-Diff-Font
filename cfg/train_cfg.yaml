@@ -16,4 +16,4 @@ model_save_dir: './trained_models'
 stroke_path: './korean_stroke.txt'
 classifier_free: True
 total_train_step: 800000
-resume_checkpoint: "./trained_models/model732000.pt"
+resume_checkpoint: "./trained_models/model700000.pt"
