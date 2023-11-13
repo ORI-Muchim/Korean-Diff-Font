@@ -22,7 +22,7 @@ config_data = {
     'use_ddim': True,
     'timestep_respacing': 'ddim25',
     'stroke_path': './korean_stroke.txt',
-    'model_path': './trained_models/ema_0.9999_700000.pt',
+    'model_path': './trained_models/ema_0.9999_800000.pt',
     'sty_img_path': './1.png',
     'total_txt_file': './total_kor.txt',
     'gen_txt_file': './gen_char_kor.txt',
